@@ -1,8 +1,4 @@
-#include "corne.dtsi"
-
-&default_transform {
-    col-offset = <6>;
-};
+#include "jdcorne.dtsi"
 
 &kscan0 {
     col-gpios

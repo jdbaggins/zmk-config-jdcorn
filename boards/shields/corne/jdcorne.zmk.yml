@@ -1,11 +1,11 @@
 file_format: "1"
-id: corne
+id: jdcorne
 name: JD Corne BT?
 type: shield
-url: https://github.com/jdbaggins/zmk_config_corne
+url: https://github.com/jdbaggins/zmk_config_jdcorn
 requires: [seeeduino_xiao_ble]
 features:
     -keys
 siblings:
-    -corne_left
-    -corne_right
+    -jdcorne_left
+    -jdcorne_right

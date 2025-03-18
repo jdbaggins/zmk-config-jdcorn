@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: corne_left
+    shield: jdcorne_left
   - board: seeeduino_xiao_ble
-    shield: corne_right
+    shield: jdcorne_right
