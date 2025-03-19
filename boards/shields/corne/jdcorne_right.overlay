@@ -1,6 +1,6 @@
 #include "jdcorne.dtsi"
 
-&default_transform {
+&default_transform { 
     col-offset = <6>;
 };
 

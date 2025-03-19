@@ -19,6 +19,7 @@
                                              &mo 1    &kp LEFT_ALT &kp SPACE         &kp ENTER &kp BACKSPACE &mo 2
                 >;
         };
+        
         layer_1 {
             display-name = "L1";
             bindings = <
