@@ -34,7 +34,7 @@
 
 / {
     combos {
-        compatible - "zmk,combos";
+        compatible = "zmk,combos";
         combo_p {
             timeous-ms = <50>;
             key-positions = <0 1>;
